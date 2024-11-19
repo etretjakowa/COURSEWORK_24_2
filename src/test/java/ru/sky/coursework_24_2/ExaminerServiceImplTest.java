@@ -66,4 +66,5 @@ class ExaminerServiceImplTest {
     void testQuestionsMaximumAmountExceededException(int amount) {
         assertThrows(QuestionsMaximumAmountExceededException.class, () -> out.getQuestions(amount));
     }
+    //2
 }

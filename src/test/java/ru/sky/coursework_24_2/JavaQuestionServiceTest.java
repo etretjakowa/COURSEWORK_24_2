@@ -81,4 +81,5 @@ class JavaQuestionServiceTest {
     void getRandomQuestion() {
         assertEquals(questionForTest5, out.getRandomQuestion());
     }
+    //2
 }

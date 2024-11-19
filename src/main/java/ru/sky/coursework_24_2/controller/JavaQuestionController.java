@@ -42,4 +42,5 @@ public class JavaQuestionController {
         javaQuestionService.find(new Question(question, answer));
         return "Вопрос " + question + " с ответом " + answer + " найден.";
     }
+    //2
 }

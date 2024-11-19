@@ -20,4 +20,5 @@ public class JavaExamConstants {
     public static final int ZERO_AMOUNT = 0;
     public static final int TOO_BIG_AMOUNT = 500;
     public static final int NEGATIVE_AMOUNT = -1;
+    //2
 }

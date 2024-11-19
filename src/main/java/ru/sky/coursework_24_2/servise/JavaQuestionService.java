@@ -66,4 +66,5 @@ public class JavaQuestionService implements QuestionService {
         List<Question> questionList = new ArrayList<>(questions);
         return questionList.get(randomNumber);
     }
+    //2
 }
