@@ -22,4 +22,5 @@ public class ExamController {
     public Collection<Question> getQuestions(int amount) {
         return examinerService.getQuestions(amount);
     }
+    //2
 }
